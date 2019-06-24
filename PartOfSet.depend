@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561016924 source:/home/ITRANSITION.CORP/a.luzgin/example/PartOfSet/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<set>
+
